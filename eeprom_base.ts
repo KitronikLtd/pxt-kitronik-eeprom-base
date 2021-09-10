@@ -3,7 +3,7 @@
 ////////////////////////////////
 
 namespace kitronik_EEPROM {
-    let CAT24_I2C_BASE_ADDR = 0x54  // This is A16 = 0, setting A16 = 1 will change address to 0x55
+    export let CAT24_I2C_BASE_ADDR = 0x54  // This is A16 = 0, setting A16 = 1 will change address to 0x55
 
     /**
      * Write a single byte to a specified address

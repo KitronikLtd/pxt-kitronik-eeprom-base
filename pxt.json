@@ -1,6 +1,6 @@
 {
     "name": "pxt-kitronik-eeprom-base",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Core functionality for CAT24M01 EEPROM (brought in as a dependency in other extensions)",
     "license": "MIT",
     "dependencies": {
